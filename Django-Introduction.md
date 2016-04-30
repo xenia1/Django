@@ -148,7 +148,7 @@ Save.
 
 >`python manage.py migrate`
   - run this after `makemigrations`
-  - creates model tables in your database, synchronizes changes you've made with the existing schema in the database.  
+  - creates model tables in your database, synchronizes changes you've made with the existing schema in the database.
 
 #### Settings you will probably change throughout a project:
   - `INSTALLED_APPS`
