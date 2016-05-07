@@ -1,6 +1,6 @@
-# How to start Django Project from scratch - minimum required
+# How to start Django Project from scratch: minimum required
 ## TO INSTALL PYTHON:
-###### Check if it's already installed:
+###### Check if it's already:
 >`python --version`
 
 If not installed or you want to update, go to **[python.org](https://www.python.org/downloads/)**. (2.7.something should be automatically installed on Mac.)
@@ -29,6 +29,9 @@ Then go to containing folder in terminal, and type:
 
 Check installation with:
 >`django-admin --version`
+
+To update Django:
+> `pip install -U Django`
 
 ***
 ## TO START DJANGO PROJECT:
